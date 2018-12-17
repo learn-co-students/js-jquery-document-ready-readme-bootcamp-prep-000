@@ -1,5 +1,4 @@
-# Document Ready
-
+# Document Retest
 ## Objectives
 
 - Set up a call to `document.ready()`
