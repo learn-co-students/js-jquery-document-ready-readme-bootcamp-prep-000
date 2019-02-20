@@ -1,3 +1,3 @@
-$(document).ready(function() {
-   console.log('hoooray!!') 
-});
+  $(document).ready(function() {
+  $("#text").append("this is so freaking awesome!!!.");
+  });
