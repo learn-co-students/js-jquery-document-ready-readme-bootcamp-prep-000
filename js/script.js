@@ -1,3 +1,3 @@
 $(document).ready(function() {
-     console.log("Document loaded")
+     $("#text").append("this is so freaking cool.");
 });
